@@ -54,4 +54,4 @@ docker-compose up
 ![docker](./images/3.png)
 
 ## Authors:
-[Devansh Kaushik, IIT Jodhpur(M22CS005)]([https://github.com/valkyron])
+[Devansh Kaushik, IIT Jodhpur(M22CS005)](https://github.com/valkyron)
