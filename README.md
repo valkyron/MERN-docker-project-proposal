@@ -5,6 +5,8 @@ Dockerized a MERN project proposal system with:
 - json web access tokens
 - uploading files directly to MongoDB cloud storage using GridFS 
 
+![webAppImage](./images/2.png)
+
 ## Methodology
 - Initialize frontend with ```npx create-react-app frontend```
 - ```mkdir backend```
@@ -19,6 +21,7 @@ Dockerized a MERN project proposal system with:
 - node.js v18.13.0
 - express.js
 - Mongo Compass
+- Docker, WSL
 
 ## Usage
 
@@ -42,11 +45,13 @@ cd ../server/
 npm run dev
 ```
 
-
 <b>With docker</b>
 ```
 docker-compose up
 ```
+
+![vscode](./images/1.png)
+![docker](./images/3.png)
 
 ## Authors:
 [Devansh Kaushik, IIT Jodhpur(M22CS005)]([https://github.com/valkyron])
